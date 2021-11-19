@@ -1,0 +1,2 @@
+1- Criar a hierarquia de usuários;
+2- especificar os privilégios conforme condição hierárquica.
