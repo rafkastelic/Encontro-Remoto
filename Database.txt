@@ -1,0 +1,5 @@
+Database:
+- Arquivos de controle;
+- Arquivos de dados;
+- Contatos;
+- Mensagens;
